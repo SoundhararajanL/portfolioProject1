@@ -83,7 +83,7 @@ export const info = {
     portfolio: [
         {
             title: "Perfect App",
-            live: "https://quiet-chaja-518a79.netlify.app/",
+            live: "https://65fbd7fb4953698a21049888--be-perfect.netlify.app/",
             source: "https://github.com/SoundhararajanL/Perfect-Application",
             image: mock1
         },
